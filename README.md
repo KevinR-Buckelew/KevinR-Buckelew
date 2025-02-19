@@ -1,4 +1,4 @@
-# Hello, I'm [Kevin Ray Buckelew] 👋
+# Hello, I'm Kevin Ray Buckelew 👋
 ## Aspiring Network\Website Engineer  | Information Science and Data Analytics Student
 
 I'm currently studying Computer Information Systems at San Jose City College,
