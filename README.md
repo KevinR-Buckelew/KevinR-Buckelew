@@ -1,5 +1,5 @@
 # Hello, I'm [Kevin Ray Buckelew] 👋
-## Aspiring Network\Webite Engineer  | Information Science and Data Analytics Student
+## Aspiring Network\Website Engineer  | Information Science and Data Analytics Student
 
 I'm currently studying Computer Information Systems at San Jose City College,
 focusing on Networking and cybersecurity cloud computing. I also study Information Science and Data Analytics at San Jose State University.
@@ -22,5 +22,5 @@ focusing on Networking and cybersecurity cloud computing. I also study Informati
 ### How to reach me
 - LinkedIn: [Your LinkedIn URL] 
 - Email: [Your Professional Email]
-- Portfolio: [kennelbookstore.com (2004-2007) https://studentaffairs.fresnostate.edu/lrc/  (2007-2008) threedprecision.com  (2009-present)
+- Portfolio: [https://www.kennelbookstore.com (2004-2007) https://studentaffairs.fresnostate.edu/lrc/  (2007-2008) www.threedprecision.com  (2009-present)
 - Global IT Administrator for https://www.trademarkia.com/   2011-2013)]
